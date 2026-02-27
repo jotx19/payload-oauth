@@ -66,9 +66,9 @@
     "release:minor": "release-it minor",
     "release:patch": "release-it patch"
   },
-  "peerDependencies": {
-    "payload": "3.68.5"
-  },
+"peerDependencies": {
+  "payload": ">=3.0.0"
+},
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "@release-it/conventional-changelog": "^10.0.4",
